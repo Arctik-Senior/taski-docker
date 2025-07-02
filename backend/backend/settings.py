@@ -1,5 +1,6 @@
 from pathlib import Path
 import os
+# flake8: noqa: E501
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
