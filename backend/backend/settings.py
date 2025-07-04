@@ -12,7 +12,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['89.169.176.206', '127.0.0.1', 'localhost', 'takski.zapto.org']
 
 
-# Application definitionZddd
+# Application definitionZddddd
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
